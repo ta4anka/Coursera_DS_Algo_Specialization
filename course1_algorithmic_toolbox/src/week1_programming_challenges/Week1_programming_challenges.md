@@ -26,7 +26,7 @@ n non-negative integers a<sub>1</sub>,...,a<sub>n</sub> (separated by spaces).
 
 **Output format.** The maximum pairwise product.
 
-**Constraints.** 2 j&le; n j&le; 2 * 10<sup>5</sup>; &nbsp; &nbsp; 0 &le; a<sub>1</sub>,...,a<sub>n</sub> &le; 2 * <sup>
+**Constraints.** 2 j&le; n j&le; 2 * 10<sup>5</sup>; &nbsp; &nbsp; 0 &le; a<sub>1</sub>,...,a<sub>n</sub> &le; 2 <sup>
 5</sup>.
 
 Sample
