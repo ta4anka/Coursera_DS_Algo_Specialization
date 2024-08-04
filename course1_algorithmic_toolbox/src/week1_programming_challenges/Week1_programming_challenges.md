@@ -13,6 +13,7 @@
 - Practice testing and stress testing programs
 - Compare fast and slow programs
 - Practice solving programming challenges
+
 ---
 
 ### Maximum Pairwise Product Programming Challenge
@@ -31,18 +32,19 @@ n non-negative integers a<sub>1</sub>,...,a<sub>n</sub> (separated by spaces).
 Sample
 <br> Input:
 
-```math
+```shell
 10
 7 5 14 2 8 8 10 1 2 3
 ```
 
 Output:
 
-```math
+```shell
 140
 ```
 Solution(slow and fast):
 [Maximum Pairwise Product Problem](MaxPairwiseProduct.java)
+
 ---
 
 ### Notes
@@ -52,6 +54,7 @@ and a significantly different alternative solution on each test, and compares th
 If the results differ, one solution is likely incorrect, allowing you to debug and fix the error.
 This process ensures that mistakes are identified and corrected by comparing outputs from both solutions.
 <br/>Example: [Maximum Pairwise Product Problem Stress Test](MaxPairwiseProductStressTest.java)
+
 ---
 
 ### Materials and resources
