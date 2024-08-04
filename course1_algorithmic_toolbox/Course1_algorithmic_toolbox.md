@@ -1,3 +1,4 @@
+## [Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms)
 ### [Week 1 Programming challenges](src/week1_programming_challenges/Week1_programming_challenges.md)
 ### [Week 2 Algorithmic warm-up](src/week2_algorithmic_warm_up/Week2_algorithmic_warm_up.md)
 ### Week 3 Greedy algorithms
