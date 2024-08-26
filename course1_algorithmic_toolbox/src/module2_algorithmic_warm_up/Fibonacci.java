@@ -2,7 +2,6 @@ package module2_algorithmic_warm_up;
 
 import java.util.Scanner;
 
-
 /**
  * Given an integer 1 ≤ n ≤ 40, it is required to compute the n-th Fibonacci number.
  * For example, if the input is 10, the output should be 55.
@@ -12,9 +11,14 @@ import java.util.Scanner;
 public class Fibonacci {
 
     /**
-     * Time Complexity: O(2^n), Space Complexity: O(n)
      * This method calculates the Fibonacci number recursively without optimization.
      * It recalculates the same Fibonacci numbers multiple times, leading to exponential time complexity.
+     * <p>
+     * Time Complexity: O(2^n) - Each call to calc_fib_naive generates two further calls, leading to an exponential number of calls.
+     * Space Complexity: O(n) - The depth of the recursion stack can go up to n, requiring O(n) space.
+     *
+     * @param n the index of the Fibonacci number
+     * @return the n-th Fibonacci number
      */
     private static long calc_fib_naive(int n) {
         if (n <= 1)
@@ -25,9 +29,14 @@ public class Fibonacci {
     }
 
     /**
-     * Time Complexity: O(n), Space Complexity: O(1)
      * This method calculates the Fibonacci number iteratively with optimization.
      * It uses a loop and stores only the last two computed Fibonacci numbers, avoiding redundant calculations.
+     * <p>
+     * Time Complexity: O(n) - The loop runs from 2 to n, performing linear iterations.
+     * Space Complexity: O(1) - Only a constant amount of extra space is used (for prev1, prev2, and current).
+     *
+     * @param n the index of the Fibonacci number
+     * @return the n-th Fibonacci number
      */
     private static long calc_fib(int n) {
         if (n <= 1) {
@@ -54,4 +63,3 @@ public class Fibonacci {
         System.out.println(calc_fib(n));
     }
 }
-
