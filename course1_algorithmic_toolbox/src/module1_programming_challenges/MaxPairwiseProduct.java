@@ -1,4 +1,4 @@
-package week1_programming_challenges;
+package module1_programming_challenges;
 
 import java.util.Scanner;
 
@@ -22,7 +22,9 @@ public class MaxPairwiseProduct {
         }
     }
 
-    // O(n^2): go through all possible pairs and select the maximum product.
+    /**
+     * O(n^2): go through all possible pairs and select the maximum product.
+     */
     static long getMaxPairwiseProduct(int[] numbers) {
         long result = 0;
         int n = numbers.length;
@@ -38,8 +40,10 @@ public class MaxPairwiseProduct {
         return result;
     }
 
-    /* O(n): To find the maximum product of two numbers from our sequence,
-     it is actually enough to find two maximal numbers in our sequence.*/
+    /**
+     * O(n): To find the maximum product of two numbers from our sequence,
+     * it is actually enough to find two maximal numbers in our sequence.
+     */
     static long getMaxPairwiseProductFast(int[] numbers) {
         int nSize = numbers.length;
         int max_idx1 = -1;

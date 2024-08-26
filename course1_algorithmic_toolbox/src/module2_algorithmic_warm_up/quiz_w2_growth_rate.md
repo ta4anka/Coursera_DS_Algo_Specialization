@@ -1,0 +1,1 @@
+![quiz-big-O](../../../assets/quiz_m2_growth_rate.png) 

@@ -1,10 +1,10 @@
-package week1_programming_challenges;
+package module1_programming_challenges;
 
 import java.util.Arrays;
 import java.util.Random;
 
-import static week1_programming_challenges.MaxPairwiseProduct.getMaxPairwiseProduct;
-import static week1_programming_challenges.MaxPairwiseProduct.getMaxPairwiseProductFast;
+import static module1_programming_challenges.MaxPairwiseProduct.getMaxPairwiseProduct;
+import static module1_programming_challenges.MaxPairwiseProduct.getMaxPairwiseProductFast;
 
 public class MaxPairwiseProductStressTest {
     public static void main(String[] args) {
