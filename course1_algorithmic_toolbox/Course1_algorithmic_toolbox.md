@@ -10,17 +10,23 @@
 ---
 
 ### Module 1 Programming challenges
+
 #### Programming Assignments 1
+
 - [Max Pairwise Product (Java)](src/module1_programming_challenges/MaxPairwiseProduct.java)
 
 ---
 
 ### Module 2 Algorithmic warm-up
+
 #### Quizzes
+
 - [Logarithms](src/module2_algorithmic_warm_up/quiz_w2_logarithms.md)
 - [Big O](src/module2_algorithmic_warm_up/quiz_w2_bigO.md)
 - [Growth rate](src/module2_algorithmic_warm_up/quiz_w2_growth_rate.md)
+
 #### Programming Assignments
+
 - [Fibonacci Number (Java)](src/module2_algorithmic_warm_up/Fibonacci.java)
 - [Last Digit of Large Fibonacci Number (Java)](src/module2_algorithmic_warm_up/FibonacciLastDigit.java)
 - [Huge Fibonacci Number(Java)](src/module2_algorithmic_warm_up/FibonacciHuge.java)
@@ -33,6 +39,16 @@
 ---
 
 ### Module 3 Greedy algorithms
+
+#### Programming Assignments
+
+- [Money Change (Java)](src/module3_greedy_algorithms/Change.java)
+- [Maximum Value of the Loot/Fractional Knapsack (Java)](src/module3_greedy_algorithms/FractionalKnapsack.java)
+- [Car Fueling (Java)](src/module3_greedy_algorithms/CarFueling.java)
+- [Maximum Advertisement Revenue/Maximum Dot Product(Java)](src/module3_greedy_algorithms/DotProduct.java)
+- [Collecting Signatures/Covering Segments by Points(Java)](src/module3_greedy_algorithms/CoveringSegments.java)
+- [Maximum Number of Prizes/Different Summands(Java)](src/module3_greedy_algorithms/DifferentSummands.java)
+- [Maximum Salary/Largest Number(Java)](src/module3_greedy_algorithms/LargestNumber.java)
 
 ---
 
@@ -47,6 +63,7 @@
 ### Module 6 Dynamic programming 2
 
 ---
+
 ### Books & Materials:
 
 - [Dasgupta, Papadimitriou,Vazirani. Algorithms (1st Edition)](../assets/Dasgupta-Papadimitriou-Vazirani.pdf)
