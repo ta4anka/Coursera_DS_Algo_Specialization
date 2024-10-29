@@ -54,6 +54,23 @@
 
 ### Module 4 Divide-and-conquer
 
+#### Quizzes
+
+- [Polynomial Multiplication](src/module4_divide_and_conquer/quiz_m4_polynomial_multiplication.md)
+- [Master Theorem](src/module4_divide_and_conquer/quiz_m4_master_theorem.md)
+- [Sorting](src/module4_divide_and_conquer/quiz_m4_sorting.md)
+- [Quick Sort](src/module4_divide_and_conquer/quiz_m4_quick_sort.md)
+
+#### Programming Assignments
+
+- [Binary Search (Java)](src/module4_divide_and_conquer/BinarySearch.java)
+- [Binary Search with Duplicates (Java)](src/module4_divide_and_conquer/BinarySearchWithDuplicatesProblem.java)
+- [Majority Element (Java)](src/module4_divide_and_conquer/MajorityElement.java)
+- [Speeding-up RandomizedQuickSort (Java)](src/module4_divide_and_conquer/ImprovingQuickSort.java)
+- [Inversions (Java)](src/module4_divide_and_conquer/Inversions.java)
+- [Organizing a Lottery/Points and Segments (Java)](src/module4_divide_and_conquer/PointsAndSegments.java)
+- [Closest Points (Java)](src/module4_divide_and_conquer/Closest.java)
+
 ---
 
 ### Module 5 Dynamic programming 1
