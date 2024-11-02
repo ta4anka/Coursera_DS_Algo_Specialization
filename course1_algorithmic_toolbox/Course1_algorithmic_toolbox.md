@@ -75,6 +75,27 @@
 
 ### Module 5 Dynamic programming 1
 
+#### Quizzes
+
+- [Change Money](src/module5_dynamic_programming_part_I/quiz_m5_сhange_money.md)
+- [Edit distance](src/module5_dynamic_programming_part_I/quiz_m5_edit_distance.md)
+
+#### Programming Assignments
+
+- [Money Change Again (Java)](src/module5_dynamic_programming_part_I/ChangeDP.java)
+- [Primitive Calculator (Java)](src/module5_dynamic_programming_part_I/PrimitiveCalculator.java)
+- [Edit Distance/Levenshtein algorithm (Java](src/module5_dynamic_programming_part_I/EditDistance.java)
+- [Longest Common Subsequence of Two Sequence (Java)](src/module5_dynamic_programming_part_I/LCS2.java)
+- [Longest Common Subsequence of Three Sequence (Java)](src/module5_dynamic_programming_part_I/LCS3.java)
+
+#### Materials
+- [Edit distance calculator](http://www.let.rug.nl/kleiweg/lev/) by Peter Kleiweg
+
+- [Longest common subsequence](http://www.cs.usfca.edu/~galles/visualization/DPLCS.html) by David Galles 
+(note the longest common subsequence problem is a special case of the edit distance problem where
+we allow insertions and deletions only)
+- [Phillip Compeau, Pavel Pevzner. Bioinformatics Algorithms: An Active Learning Approach](https://www.amazon.com/BIOINFORMATICS-ALGORITHMS-Phillip-Compeau/dp/0990374637)
+
 ---
 
 ### Module 6 Dynamic programming 2
