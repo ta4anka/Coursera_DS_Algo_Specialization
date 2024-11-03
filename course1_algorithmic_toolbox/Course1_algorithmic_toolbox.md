@@ -89,16 +89,23 @@
 - [Longest Common Subsequence of Three Sequence (Java)](src/module5_dynamic_programming_part_I/LCS3.java)
 
 #### Materials
+
 - [Edit distance calculator](http://www.let.rug.nl/kleiweg/lev/) by Peter Kleiweg
 
-- [Longest common subsequence](http://www.cs.usfca.edu/~galles/visualization/DPLCS.html) by David Galles 
-(note the longest common subsequence problem is a special case of the edit distance problem where
-we allow insertions and deletions only)
+- [Longest common subsequence](http://www.cs.usfca.edu/~galles/visualization/DPLCS.html) by David Galles
+  (note the longest common subsequence problem is a special case of the edit distance problem where
+  we allow insertions and deletions only)
 - [Phillip Compeau, Pavel Pevzner. Bioinformatics Algorithms: An Active Learning Approach](https://www.amazon.com/BIOINFORMATICS-ALGORITHMS-Phillip-Compeau/dp/0990374637)
 
 ---
 
 ### Module 6 Dynamic programming 2
+
+#### Programming Assignments
+
+- [Maximum Amount of Gold/Knapsack Problem (Java)](src/module6_dynamic_programming_part_II/Knapsack.java)
+- [Splitting the Pirate Loot/Partitioning Souvenirs (Java)](src/module6_dynamic_programming_part_II/Partition3.java)
+- [Maximum Value of an Arithmetic Expression (Java)](src/module6_dynamic_programming_part_II/PlacingParentheses.java)
 
 ---
 
