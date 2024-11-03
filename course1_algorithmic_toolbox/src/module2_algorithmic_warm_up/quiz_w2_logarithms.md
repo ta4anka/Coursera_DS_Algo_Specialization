@@ -1,1 +1,1 @@
-![quiz-logarithms](../../../assets/quiz_m2_logarithms.png)
+![quiz-logarithms](../../assets/quiz_m2_logarithms.png)

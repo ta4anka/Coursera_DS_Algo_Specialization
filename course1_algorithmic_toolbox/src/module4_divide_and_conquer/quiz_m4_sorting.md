@@ -1,2 +1,2 @@
 
-![quiz_sorting](../../../assets/quiz_m4_sorting.png)
+![quiz_sorting](../../assets/quiz_m4_sorting.png)

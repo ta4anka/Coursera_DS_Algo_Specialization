@@ -1,1 +1,1 @@
-![quiz_m5_edit_distance.png](../../../assets/quiz_m5_edit_distance.png)
+![quiz_m5_edit_distance.png](../../assets/quiz_m5_edit_distance.png)

@@ -111,6 +111,6 @@
 
 ### Books & Materials:
 
-- [Dasgupta, Papadimitriou,Vazirani. Algorithms (1st Edition)](../assets/Dasgupta-Papadimitriou-Vazirani.pdf)
-- [Algorithmic Toolbox's programming challenges book](../assets/toolbox_statements.pdf)
-- [What to do if your solution does not work?](../assets/testing_guide.pdf)
+- [Dasgupta, Papadimitriou,Vazirani. Algorithms (1st Edition)](assets/Dasgupta-Papadimitriou-Vazirani.pdf)
+- [Algorithmic Toolbox's programming challenges book](assets/toolbox_statements.pdf)
+- [What to do if your solution does not work?](assets/testing_guide.pdf)

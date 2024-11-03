@@ -1,1 +1,1 @@
-![quiz_сhange_money](../../../assets/quiz_m5_сhange_money.png)
+![quiz_сhange_money](../../assets/quiz_m5_сhange_money.png)
